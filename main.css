@@ -1,0 +1,20 @@
+html {
+  border: 5px solid #955E42;
+  background-color: #553739;
+  border-left: none;
+  border-right: none;
+
+}
+
+body {
+  background-color: #232020;
+  margin: 40px;
+  padding: 50px;
+  border: 10px solid #9C914F;
+  border-radius: 9px;
+  color: #748E54;
+  font-size: 40px;
+  font-family: verdana;
+  text-align: center;
+
+}
